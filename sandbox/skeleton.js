@@ -1,3 +1,9 @@
+
+//  https://www.youtube.com/watch?v=2SBSX4_D0zw
+
+// $chatapp npm install faye
+
+
 console.log('this is a test');
 //
 // backend
@@ -13,5 +19,3 @@ console.log('this is a test');
 //
 // Deployment heroku
 //
-
-// $chatapp npm install faye
