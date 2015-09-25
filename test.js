@@ -1,5 +1,5 @@
 console.log('this is a test');
-// 
+//
 // backend
 //
 // Node.js (why? cuz it is fast, thanks to google's v8)
@@ -13,3 +13,5 @@ console.log('this is a test');
 //
 // Deployment heroku
 //
+
+// $chatapp npm install faye
