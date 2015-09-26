@@ -1,7 +1,9 @@
+// tutorials:
+// http://arminboss.de/2013/tutorial-how-to-create-a-basic-chat-with-node-js/
+// https://www.youtube.com/watch?v=2SBSX4_D0zw
 
-//  https://www.youtube.com/watch?v=2SBSX4_D0zw
-
-// $chatapp npm install faye
+// npm install faye
+// npm install socket.io
 
 
 console.log('this is a test');
